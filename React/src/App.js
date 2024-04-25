@@ -1,5 +1,6 @@
 import './App.css';
-import Bootstraptemplet from './bootstrap/Bootstrap';
+import Crud from './crud/Crud';
+// import Bootstraptemplet from './bootstrap/Bootstrap';
 // import UncontrolForm from './project/Form/UncontrolForm'
 // import ControlFrom from './project/Form/ControlFrom'
 // import FormVel from './project/Form/FormVel';
@@ -22,7 +23,8 @@ function App() {
       {/* <ControlFrom/> */}
       {/* <UncontrolForm/> */}
       {/* <Event/> */}
-      <Bootstraptemplet/>
+      {/* <Bootstraptemplet/> */}
+      <Crud/>
     </>
 
   );
