@@ -95,4 +95,12 @@
     font-size: 18px;
     text-align: center;
   }
+  #new {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+  }
+  #navbarScrollingDropdown{
+    margin-right: 50px;
+  }
   
